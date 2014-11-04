@@ -1,4 +1,5 @@
 IOTProject
 ==========
 
-This is a new project for IOT Course
+This is a new repository for IOT Course.
+
