@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+
+
+/**************************************** 
+********** LOGIN_FORM  *******************
+*****************************************/
+#logo_top{
+	padding: 1em 0;
+	max-width: 800px;
+}
+#logo_top .search{
+	padding-top: 1.2em;
+	
+}
+#logo_top  .search div{
+	display: inline-block;
+	float: left;
+}
+
+
+
+#logo_top .search div[type=submit]{
+	margin-bottom: 1px;
+}
+.form-signin{
+	max-width: 293px;
+	padding: 15px;
+	margin:0 auto;
+}
+
